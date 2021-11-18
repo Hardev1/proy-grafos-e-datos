@@ -1,0 +1,83 @@
+{
+	"caminos":[
+	{
+	"distancia": 10,
+	"origen": "Luna",
+	"destino": "Marte",
+	"dirigido": false
+
+	},
+		{
+	"distancia": 8,
+	"origen": "Luna",
+	"destino": "Mercurio",
+	"dirigido": false
+	},
+	{
+	"distancia": 22,
+	"origen": "Mercurio",
+	"destino": "Jupiter",
+	"dirigido": false
+	},
+	{
+	"distancia": 12,
+	"origen": "Marte",
+	"destino": "Jupiter",
+	"dirigido": false
+	},
+	{
+	"distancia": 55,
+	"origen": "Marte",
+	"destino": "Tierra",
+	"dirigido": false
+	},
+	{
+	"distancia": 36,
+	"origen": "Saturno",
+	"destino": "Marte",
+	"dirigido": false
+	},
+	{
+	"distancia": 59,
+	"origen": "Saturno",
+	"destino": "Urano",
+	"dirigido": false
+	},
+	{
+	"distancia": 60,
+	"origen": "Urano",
+	"destino": "Tierra",
+	"dirigido": false
+	},
+	{
+	"distancia": 18,
+	"origen": "Neptuno",
+	"destino": "Jupiter",
+	"dirigido": false
+	},
+	{
+	"distancia": 44,
+	"origen": "Neptuno",
+	"destino": "Pluton",
+	"dirigido": false
+	},
+	{
+	"distancia": 33,
+	"origen": "Neptuno",
+	"destino": "Mercurio",
+	"dirigido": false
+	},
+	{
+	"distancia": 39,
+	"origen": "Pluton",
+	"destino": "Saturno",
+	"dirigido": false
+	},
+	{
+	"distancia": 61,
+	"origen": "Pluton",
+	"destino": "Urano",
+	"dirigido": false
+	}
+	]
+}

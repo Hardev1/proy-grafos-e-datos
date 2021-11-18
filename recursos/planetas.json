@@ -1,0 +1,50 @@
+{
+    "planetas": [
+        {
+            "nombre": "Luna"
+
+
+        },
+        {
+            "nombre": "Tierra"
+
+
+        },
+        {
+            "nombre": "Marte"
+
+
+        },
+        {
+            "nombre": "Saturno"
+
+
+        },
+        {
+            "nombre": "Jupiter"
+
+
+        },
+        {
+            "nombre": "Urano"
+
+
+        },
+        {
+            "nombre": "Neptuno"
+
+
+        },
+        {
+            "nombre": "Pluton"
+
+
+        },
+        {
+            "nombre": "Venus"
+
+
+        }
+
+    ]
+}
